@@ -1,0 +1,17 @@
+{
+  "name": "ivancarrazana-mariadb_galera",
+  "version": "0.1.0",
+  "author": "Ivan A. Carrazana C.",
+  "summary": "MariaDB+Galera",
+  "license": "Apache 2.0",
+  "source": "GitHub.com",
+  "project_page": "mailto:ivancarrazana@gmail.com",
+  "issues_url": "mailto:ivancarrazana@gmail.com",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
